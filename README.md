@@ -9,6 +9,6 @@ Our server handles the HTTP methods **GET**, **POST**, and **DELETE**, and suppo
 
 This project was an excellent opportunity to deepen my **understanding of C++** and apply all the concepts covered in previous modules, including low-level socket programming, event-driven I/O, and object-oriented design. I also **revisited pipes**, which I had previously coded in C to reproduce a shell, but this time used them for handling CGI processes.
 
-GIT APPRENTISSAGE
+I also gained deep experience with GitHub, **managing multiple branches**, **using issues**, and leveraging other collaborative features effectively.
 
-The project emphasizes performance, correctness, and compliance with standard HTTP protocol 1.1 behavior.
+The project emphasizes performance, correctness, and **compliance with standard HTTP protocol 1.1 behavior**.
