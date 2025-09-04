@@ -1,0 +1,66 @@
+------------ ...8:11:26... ------------
+------------ ...8:11:47... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...8:12:44... ------------
+[METHOD GET] File not found: www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD POST] Post Request without multipart/form-data
+------------ ...8:16:8... ------------
+[METHOD POST] Post Request without multipart/form-data
+------------ ...8:19:7... ------------
+[METHOD POST] Post Request without multipart/form-data
+------------ ...8:34:56... ------------
+[METHOD POST] Post Request without multipart/form-data
+------------ ...8:36:28... ------------
+[METHOD POST] Post Request without multipart/form-data
+------------ ...8:42:15... ------------
+[METHOD POST] Post Request without multipart/form-data
+------------ ...8:45:37... ------------
+[METHOD POST] Post Request without multipart/form-data
+------------ ...9:37:43... ------------
+------------ ...9:38:35... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...9:38:51... ------------
+[METHOD GET] File not found: www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+debug - before readbody
+debug - after readbody
+[METHOD GET] File not found: www/upload/FLEUR-20250618093902.jpeg
+[METHOD GET] File not found: www/images/cutecat.jpg
+------------ ...9:39:8... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...9:39:16... ------------
+------------ ...9:40:50... ------------
+------------ ...9:47:37... ------------
+------------ ...9:48:40... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...9:48:48... ------------
+[METHOD GET] File not found: www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+debug - before readbody
+[ERROR] recv() failed
+debug - after readbody
+------------ ...9:50:55... ------------
+debug - before readbody
+[ERROR] recv() failed
+debug - after readbody
+------------ ...9:57:5... ------------
+[METHOD GET] File not found: www/afsafdsfasdfaafsdfads
+[METHOD GET] File not found: www/images/cutecat.png
+[METHOD GET] File not found: www/images/cutecat.jpg
+------------ ...10:6:47... ------------
+------------ ...10:14:40... ------------
+------------ ...10:15:52... ------------
+------------ ...10:18:57... ------------
+------------ ...10:19:31... ------------
+------------ ...10:24:6... ------------
+------------ ...10:25:11... ------------
+[METHOD GET] File not found: www/LoremipsumdolorsitametconsecteturadipiscingelitMaurismoduiqu
+[METHOD GET] File not found: www/LoremipsumdolorsitametconsecteturadipiscingelitMaurismoduiquLoremipsumdolorsitametconsecteturadipiscingelitMaurismoduiquisvolutpatdictumvelipsumnullamquisporttitorquisaliquamvelacurabiturduisvolutpatlacusnonmagnaaccumsannecvelismodipsumduilacinianoninterdummalesuadaduislacusnequesuspendissefringillalacinianoncursusvulputateintegerlacinianecsollicitudinmiaconvallislacinianonacmalesuadafaucibusdiamquamfaucibusintegeratnuncconguevelimperdietmorbiarcuquismorbilacinianonconguelectusintegerlacinianonmalesuadaduismalesuadamaumvelnuncvestibulummolestieetvenenatisintegeracdonecporttitorloremvitaetquisdiamfaucibusnuncturpismagnaetvitaelacinianoncongueefficituraditprincipiadipiscingelitaccumsantemporconsequatposuereauctoreratquismoduisloremconguealacinianoncongueullamcorperpellentesquedoneclacinianonmusassociatmorbiadipiscingnuncmalesuadametaquislacinianonnonullamsuscipitmaximuspellentesquesuspendisseelitvolutpatproinmattisquismorbiarcuquisligulablanditduifacilisquisdonecproidenttristiqueveldiampharetravigilansuscipitvolutpatefficituraugueefficituracquisvitaeimperdietnullaauctorpellentesquesuspendisseaenimvitaeturpisetmalesuadaduismollisloremvolutpatproinvolutpatconguenullamvolutpatfaucibusmalesuadavulputateaccumsanquismagnaetliguladuisvolutpatconvallisporttorduisvolutpatvelauctorvolutpatvitaevivamuslacusconguequispellentesquelacinianonmaximussuspendissefringillaquisauctormusdiamacrisuslacinianoncurabiturconguevolutpatvestibulumaliquetligulaporttitormalesuadaduisvolutpatpellenelacinianonfaucibusetvolutpatcursusespellentesquesuspendissefringillavelnonlacinianontemporullamcorpervolutpatintegermalesuadaduismollislacinianonvolutpatcongueefficituradipiscingturpismaximustemporimperdietlacinianonvolutpatorciacaecatnuncmalesuadaduisconguearcuacliberoracursusmaximussuspendisseegetcurabiturquissuscipitvolutpatlacuspellentesquesuspendisseutultriciesvolutpatquametnullamullamvolutpatporttitorquissuspendissequamquamturpisarcuvehependisspellenquismodetnoninterdumporttitorblanditefficiturmaximuspellentesquesuspendisseenimblanditporttitoranteverompellentesquesuspendisselacinianonvolutpatorcieratintegermaximussuspendissevolutpatnuncvitaeresuspendisssuscipitcurabiturvolutpatterprehendissuspendissevolutpatlacinianonnullamprincipadonecfaucibusconguepellentesquesuspendisseinterdumullamvolutpatmalesuadamollis.
+------------ ...10:49:24... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec

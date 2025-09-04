@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Tourney';
+    src: url('/fonts/tourney/Tourney-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+.body {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 20%;
+    background-color: black;
+}
+
+.back_img {
+    width: 50vw;
+    height: 40vh;
+    background-color: red;
+}
+
+.title {
+    font-size: 80px;
+    font-weight: 600;
+    color: transparent;
+    -webkit-text-stroke: 3px white;
+    font-family: 'Tourney', sans-serif;
+    font-style: medium;
+    text-align: center;
+    text-transform: uppercase;
+    display: inline-block;
+    animation: scroll-left 10s linear infinite;
+}
+
+.title::after {
+    border-bottom: 4px white;
+    width: 100%;
+}
+
+.ul {
+    margin-top: 15%;
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.list {
+    font-size: 40px;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-family: "space mono", monospace;
+    color: rgb(255, 0, 0);
+    border: 2px solid rgb(255, 0, 0);
+    width: fit-content;
+    height: fit-content;
+}
+
+.list:hover {
+    background-color: white;
+    border: white;
+    color: black;
+    transition: 1s;
+    cursor: grab;
+}
+
+.scroll-wrapper {
+    width: 100%;
+    overflow: hidden;
+    background: black;
+}
+
+.scrolling-text {
+    display: flex;
+    white-space: nowrap;
+    animation: scroll 12s linear infinite;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}

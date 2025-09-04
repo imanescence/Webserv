@@ -1,0 +1,22 @@
+------------ ...10:24:13... ------------
+------------ ...11:10:56... ------------
+------------ ...11:11:53... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...11:12:03... ------------
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+------------ ...11:19:21... ------------
+------------ ...11:20:08... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...11:20:20... ------------
+[HTTP] Partial response sent: 5272203/8947791 bytes
+------------ ...11:21:45... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...13:06:42... ------------
+[METHOD GET] File not found: www/fonts/tourney/Tourney-Regular.ttf
+[METHOD GET] File not found: www/images/cutecat.jpg
+[METHOD GET] File not found: www/images/cutecat.jpg
+------------ ...13:11:55... ------------
+------------ ...13:14:10... ------------

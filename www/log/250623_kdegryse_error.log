@@ -1,0 +1,592 @@
+------------ ...11:11:44... ------------
+------------ ...11:16:00... ------------
+------------ ...11:16:56... ------------
+------------ ...11:18:52... ------------
+------------ ...11:20:47... ------------
+------------ ...11:21:56... ------------
+[DEBUG] ServerExec::handleEvent client processing status -1
+------------ ...11:58:52... ------------
+[DEBUG] ServerExec::handleEvent client processing status 0
+------------ ...12:01:16... ------------
+[DEBUG] ServerExec::handleEvent client processing status 200
+------------ ...12:31:52... ------------
+[DEBUG] ServerExec::handleEvent client processing status 200
+------------ ...12:54:12... ------------
+[DEBUG] ServerExec::handleEvent client processing status 200
+------------ ...13:21:15... ------------
+------------ ...13:25:04... ------------
+------------ ...13:26:54... ------------
+------------ ...13:54:42... ------------
+------------ ...13:55:06... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...13:55:33... ------------
+------------ ...13:59:22... ------------
+------------ ...14:00:57... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...14:01:08... ------------
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+Failed to send response
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+Failed to send response
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+Failed to send response
+------------ ...14:03:41... ------------
+------------ ...14:07:52... ------------
+------------ ...14:39:50... ------------
+------------ ...14:43:38... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...14:43:46... ------------
+------------ ...15:27:41... ------------
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+Failed to send response
+------------ ...15:35:52... ------------
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+Failed to send response
+------------ ...15:41:31... ------------
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+Failed to send response
+------------ ...15:46:06... ------------
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+Failed to send response
+------------ ...15:50:50... ------------
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+Failed to send response
+------------ ...15:53:29... ------------
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+------------ ...15:57:08... ------------
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+------------ ...16:00:26... ------------
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+------------ ...16:19:55... ------------
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+------------ ...16:37:20... ------------
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+------------ ...16:39:37... ------------
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+------------ ...16:44:15... ------------
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+------------ ...16:44:59... ------------
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+------------ ...16:50:13... ------------
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+------------ ...16:58:18... ------------
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+Failed to send response
+------------ ...17:00:37... ------------
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[METHOD POST] Post Request without multipart/form-data
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+Failed to send response
+------------ ...17:05:08... ------------
+------------ ...17:09:42... ------------
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[METHOD GET] File not found: www/upload/cutecat-20250623170949.jpg
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+[HTTP] Socket error before sending response: Broken pipe
+result = 0, error = 32
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[METHOD GET] File not found: www/upload/FLEUR-20250623171015.jpeg
+[HTTP] Socket error before sending response: Connection reset by peer
+result = 0, error = 104
+------------ ...17:13:13... ------------
+[METHOD GET] File not found: www/upload/ingres-20250623171343.jpeg
+------------ ...17:17:47... ------------
+[METHOD GET] File not found: www/upload/www/images/clientUploadFiles/ingres-20250623171748.jpeg
+------------ ...17:20:55... ------------
+[METHOD GET] File not found: www/upload/www/images/clientUploadFiles/ingres-20250623172056.jpeg
+------------ ...17:24:40... ------------
+[METHOD GET] File not found: www/images/www/images/clientUploadFiles/ingres-20250623172445.jpeg
+------------ ...17:29:47... ------------
+[METHOD GET] File not found: www/upload/www/images/clientUploadFiles/ingres-20250623172948.jpeg
+------------ ...17:31:00... ------------
+[METHOD GET] File not found: www/upload/www/images/clientUploadFiles/ingres-20250623173101.jpeg
+------------ ...17:32:56... ------------
+[METHOD GET] File not found: www/upload/www/images/clientUploadFiles/ingres-20250623173257.jpeg
+------------ ...17:37:50... ------------
+Line 18 -> Error : location is block and must be declare with braces to set up the values inside
+Line 19 -> Error : unknow keyword : 'method'
+Error : server didn't create because the configuration is not valid
+------------ ...17:38:20... ------------
+[METHOD GET] File not found: www/images/clientUploadFilesingres-20250623173824.jpeg
+------------ ...17:38:47... ------------
+[SERVER] error socket = 13
+[SERVER] No socket in constructor of class ServerExec
+------------ ...17:38:57... ------------
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+------------ ...17:41:27... ------------
+------------ ...17:44:02... ------------
+[METHOD GET] File not found: www/images/cutecat.j
+------------ ...17:54:36... ------------
+------------ ...18:29:33... ------------

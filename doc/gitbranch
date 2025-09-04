@@ -1,0 +1,18 @@
+il existe des commandes pour le faire (git branch, je crois) mais le moyen le plus simple de creer une branche est d'aller sur github.com
+ -> onglet "code¨
+ -> cliquer sur le symbole de branche (ou il devrait etre ecrit "main¨)
+ -> view all branches
+ -> bouton new branch
+
+Ensuite, dans le terminal : git checkout <branch name>
+
+Pour verifier la branche courante, dans le terminal : git checkout
+
+ce que j'ai fait pour mettre la branche maitre a jour jusqu'ici :
+ -> git pull (c'est la qu'il faudrait regler les conflits s'il y en a)
+ -> git add
+ -> git commit
+ -> git push
+ -> aller sur github.com pour faire une pullrequest et gerer le merge (main <- ta branche)
+
+ si tu veux, on peut toujours partir sur une autre procedure. On en a parle, ce n'est pas le plus propre.

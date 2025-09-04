@@ -1,0 +1,95 @@
+------------ ...10:52:10... ------------
+------------ ...10:52:24... ------------
+------------ ...10:52:29... ------------
+------------ ...10:52:32... ------------
+------------ ...10:52:35... ------------
+------------ ...10:52:36... ------------
+------------ ...10:52:38... ------------
+------------ ...10:52:39... ------------
+------------ ...10:52:41... ------------
+------------ ...10:52:43... ------------
+------------ ...10:52:44... ------------
+------------ ...10:52:45... ------------
+------------ ...10:52:47... ------------
+------------ ...10:53:31... ------------
+------------ ...10:53:35... ------------
+------------ ...10:53:36... ------------
+------------ ...10:53:43... ------------
+------------ ...10:53:44... ------------
+------------ ...10:53:46... ------------
+------------ ...10:53:47... ------------
+------------ ...10:53:48... ------------
+------------ ...11:02:08... ------------
+------------ ...11:02:59... ------------
+------------ ...11:03:01... ------------
+------------ ...11:03:02... ------------
+------------ ...11:03:03... ------------
+------------ ...11:03:04... ------------
+------------ ...11:03:05... ------------
+------------ ...11:03:06... ------------
+------------ ...11:03:07... ------------
+------------ ...11:03:08... ------------
+------------ ...11:03:09... ------------
+------------ ...11:14:35... ------------
+[METHOD GET] File not found: www/imagesdsmklzl
+------------ ...11:25:59... ------------
+------------ ...11:28:54... ------------
+------------ ...11:38:32... ------------
+[HTTP] only GET and POST allowed for CGI
+[HTTP] only GET and POST allowed for CGI
+[HTTP] Partial response sent: 3242654/8947791 bytes
+[HTTP] error CGI
+[HTTP] error CGI
+Traceback (most recent call last):
+  File "/home/iait-ouf/webserv/www/script/calculator.py", line 24, in <module>
+    sys.stdout.flush()
+KeyboardInterrupt
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/home/iait-ouf/webserv/www/script/calculator.py", line 24, in <module>
+    sys.stdout.flush()
+KeyboardInterrupt
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+------------ ...12:01:28... ------------
+[METHOD GET] File not found: www/images/cutecat.jpg
+[METHOD GET] File not found: www/www/images/cutecat.jpg
+------------ ...12:03:16... ------------
+[HTTP] error CGI
+[HTTP] error CGI
+[HTTP] error CGI
+Traceback (most recent call last):
+  File "/home/iait-ouf/webserv/www/script/calculator.py", line 24, in <module>
+KeyboardInterrupt
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/home/iait-ouf/webserv/www/script/calculator.py", line 24, in <module>
+KeyboardInterrupt
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/home/iait-ouf/webserv/www/script/calculator.py", line 24, in <module>
+KeyboardInterrupt
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+------------ ...12:08:28... ------------
+------------ ...12:08:52... ------------
+[METHOD GET] File not found: www/snfjkzfn
+------------ ...12:11:01... ------------
+------------ ...12:11:28... ------------
+------------ ...12:44:21... ------------
+------------ ...12:45:54... ------------
+------------ ...12:47:24... ------------
+------------ ...12:49:29... ------------
+[METHOD GET] File not found: www/fonts/tourney/Tourney-Regular.ttf
+[METHOD GET] File not found: www/images/cutecat.jpg
+------------ ...12:53:57... ------------
+[METHOD GET] File not found: www/fonts/tourney/Tourney-Regular.ttf
+------------ ...13:02:57... ------------
+[METHOD GET] File not found: www/fonts/tourney/Tourney-Regular.ttf
+[METHOD GET] File not found: www/fonts/tourney/Tourney-Regular.ttf
+[METHOD GET] File not found: www/html/cgi.htmlkgzll
+[METHOD GET] File not found: www/fonts/tourney/Tourney-Regular.ttf
+[METHOD GET] File not found: www/fonts/tourney/Tourney-Regular.ttf
